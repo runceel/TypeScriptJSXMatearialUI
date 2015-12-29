@@ -1,0 +1,9 @@
+/.vs
+**/bin
+**/obj
+**/node_modules
+**/bundle.js
+**/bundle-init.js
+
+/materialuisample/scripts/app.js
+/materialuisample/scripts/app.js.map
